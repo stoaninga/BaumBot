@@ -1,0 +1,8 @@
+Willkommen beim Baum Bot!
+**/help**    listet dir alle Befehle im privaten Chat auf!
+**/list**    listet alle Befehle im Chat auf
+**/clear n** l&ouml;scht dir die letzten n Nachrichten aus dem Chat
+**/play url**spielt die gew&uuml;nschte url ab (Youtube!)
+**/disc**    Disconnect des Bots aus aktuellen VoiceChannel
+**/rape**    Random Beleidigung
+**/god**     Gebet an unseren allm&aumlchtigen F&uml;hrer
